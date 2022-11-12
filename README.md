@@ -7,11 +7,11 @@ smooth rolling spool holder. sized for Ender3 V2.
 
 - 2x 6806 bearings _not included_ (30mm bore ID, 42mm OD, 7mm thickness, 6mm sidewall)
 - ~110g PLA+ ~(10h 15min)
-  - roller (51g, 4h 44min)
-  - arm (29g, 2h 38min)
-  - washer (9g, 49min)
-  - spacer (4g 22min)
-  - flange nut (16g, 1h 32min)
+  - **roller** (51g, 4h 44min)
+  - **arm** (29g, 2h 38min)
+  - **washer** (9g, 49min)
+  - **spacer** (4g 22min)
+  - **flange nut** (16g, 1h 32min)
 
 ## printing
 
